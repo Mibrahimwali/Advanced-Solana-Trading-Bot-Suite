@@ -464,7 +464,7 @@ I specialize in building **enterprise-grade trading bots** tailored to your spec
 ### 👨‍💻 Ibrahim Wali
 **Solana Trading Bot Specialist | DeFi Architect | MEV Expert**
 
-[![Email](https://img.shields.io/badge/Email-ibrahim.wali%40hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibrahim.wali@hotmail.com)
+[![Email](https://img.shields.io/badge/Email-ibrahim.wali%40nextchainx.io-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibrahim.wali@nextchainx.io)
 [![Portfolio](https://img.shields.io/badge/Portfolio-ibrahimwali.com-FF7139?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ibrahimwali.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-iamibrahimwali-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iamibrahimwali)
 [![Twitter](https://img.shields.io/badge/Twitter-%40MibrahimWali-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MibrahimWali)
@@ -476,7 +476,7 @@ I specialize in building **enterprise-grade trading bots** tailored to your spec
 ### 📧 Get in Touch
 
 **For Trading Bot Development:**
-- 📨 Email: ibrahim.wali@hotmail.com
+- 📨 Email: ibrahim.wali@nextchainx.io
 - 💼 LinkedIn: [linkedin.com/in/iamibrahimwali](https://linkedin.com/in/iamibrahimwali)
 - 🌐 Portfolio: [ibrahimwali.com](https://ibrahimwali.com)
 - 🐦 Twitter: [@MibrahimWali](https://twitter.com/MibrahimWali)
